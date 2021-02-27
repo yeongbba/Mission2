@@ -1,0 +1,20 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: ivory;
+    position: relative;
+    padding: 1rem 0 0 1rem;
+    box-sizing: border-box;
+}
+
+.dragBox {
+    top: 80px;
+    left: 50px;
+    position: absolute;
+}
+
+.button {
+    font-size: 1.2rem;
+    height: 2rem;
+    cursor: pointer;
+}
